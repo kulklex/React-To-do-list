@@ -1,1 +1,1 @@
-# React-To-do-list
+# A To-do-list built with React
