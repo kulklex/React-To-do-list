@@ -1,1 +1,1 @@
-# A To-do-list built with React
+# An aquarium website where u can book tickets to visit the aquarium 
